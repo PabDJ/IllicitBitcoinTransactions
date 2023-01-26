@@ -4,6 +4,7 @@ Generation and classification of illicit Bitcoin transactions through Artificial
 This repository contains the code involved in the paper [Generation and Classification of Illicit Bitcoin Transactions](https://link.springer.com/chapter/10.1007/978-3-031-21333-5_108)
 
 To support this research please consider citing:
+
 ``de Juan Fidalgo, P., Cámara, C., Peris-Lopez, P. (2023). Generation and Classification of Illicit Bitcoin Transactions. In: Bravo, J., Ochoa, S., Favela, J. (eds) Proceedings of the International Conference on Ubiquitous Computing & Ambient Intelligence (UCAmI 2022). UCAmI 2022. Lecture Notes in Networks and Systems, vol 594. Springer, Cham. https://doi.org/10.1007/978-3-031-21333-5_108``
 
 ## Abstract
